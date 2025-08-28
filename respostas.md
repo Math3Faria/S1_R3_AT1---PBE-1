@@ -1,0 +1,3 @@
+	Respondendo a diferença entre os dois: A biblioteca ser um conjunto de funções, criada por outras pessoas e disponibilizadas para todo mundo usar, usadas normalmente para ajudar a realizar atividades específicas, sem impor uma forma única de trabalhar.
+
+	Já um framework são varias ferramentas que podem ajudar o desenvolvedor a criar um projeto do zero, ajuda mostrando regras, e mostrando estruturas pré-definidas para os desenvolvedores, fornecendo diretrizes sobre como organizar o código, além de incluir diversas bibliotecas internas que podem ser utilizadas.
